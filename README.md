@@ -2,7 +2,7 @@
 
 ### 👀 I am interested in learning technology.
 
-### 📫 How to reach me rodrigokaconde@yahoo.com.br
+### 📫 How to reach me rf.oliveira00@gmail.com
 
 <!---
 rodrigokaconde/rodrigokaconde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
