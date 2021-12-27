@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Rodrigo Fernandes de Oliveira.
 
-### 👀 I am interested in learning technology.
-
 ### 📫 How to reach me rf.oliveira00@gmail.com
 
 <!---
